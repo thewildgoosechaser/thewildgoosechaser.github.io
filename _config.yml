@@ -1,8 +1,8 @@
-url: www.thewildgoosechaser.com
-baseurl: /
+url: "www.thewildgoosechaser.com"
+baseurl: ""
 
 # Site settings
-title: Skippy
+title: Digi Labs
 email: fragale@digilabs.com
 description: "The goose chasing robot"
 
@@ -13,20 +13,16 @@ people:
   pic: 1
   position: Electrical Designer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
+    - title: email
       url: #
 
 - name: Nick Fragale
   pic: 2
   position: Robotics Engineering
   social:
-    - title: twitter
+    - title: email
       url: #
-    - title: facebook
+    - title: github
       url: #
     - title: linkedin
       url: #
@@ -35,12 +31,9 @@ people:
   pic: 3
   position: Machine Learning Lead
   social:
-    - title: twitter
+    - title: email
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

@@ -9,10 +9,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a>
+                <a class="navbar-brand page-scroll" href="#page-top">DigiLabs</a>
             </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
+            <!-- Collect the nav links, forms, and other content for toggling >
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
@@ -34,7 +34,7 @@
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                 </ul>
-            </div>
+            </div-->
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->
@@ -44,12 +44,13 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Meet Skippy!</div>
+                <!--div class="intro-lead-in">Meet Skippy!</div-->
                 <div class="intro-heading">The goose chasing robot</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+                <!--a href="#services" class="page-scroll btn btn-xl">Tell Me More</a-->
             </div>
         </div>
     </header>
+
 <!--
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}

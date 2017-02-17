@@ -1,0 +1,54 @@
+<!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Skippy is easy to use</h2>
+                    <h3 class="section-subheading text-muted">Just..</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <h4 class="service-heading">Pick a spot for skippy's new home</h4>
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                    </span>
+                    
+                    <p class="text-muted">This is where skippy will sleep after a long day of chasing geese </p>
+                </div>
+                <div class="col-md-4">
+                    <h4 class="service-heading">Tell skippy where and where not to go</h4>
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <p class="text-muted">An easy to use web interface lets you tell skippy where to look for geese and where to aviod by letting you drag and drop icons onto an overhead map</p>
+                </div>
+                <div class="col-md-4">
+                    <h4 class="service-heading">Turn him on and enjoy!</h4>
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <p class="text-muted">Skippy comes preconfigures so all you have to do is sit back and enjoy a yard free of geese</p>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Skippy can patrol a large area</h2>
+                    <h3 class="section-subheading text-muted">One skippy can patrol a large area, up to 150 acres!</h3>
+                    <img src="img/golf-course-map.jpg" alt="Area" style="width:304px;height:228px;">
+                </div>
+                
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Skippy can be at work 24/7 all year long</h2>
+                </div>
+            </div>
+        </div>
+    </section>
